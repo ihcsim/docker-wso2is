@@ -1,0 +1,16 @@
+is:
+  build:
+    image: isim/wso2is
+    dockerfile: Dockerfile
+    args:
+      VCS_REF: 85acc6f
+  cached: true
+
+http_test:
+  build:
+    dockerfile: Dockerfile-HttpTest
+  environment:
+    IS_HOST: is
+  links:
+    - is
+  cached: true
