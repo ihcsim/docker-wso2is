@@ -1,5 +1,7 @@
 # docker-wso2is
 
+[ ![Codeship Status for ihcsim/docker-wso2is](https://app.codeship.com/projects/40ae82f0-c3e4-0134-bbfc-4e06b7b88b41/status?branch=master)](https://app.codeship.com/projects/197787)
+
 Docker image to install and run WSO2 Identity Server.
 
 ## Tags
