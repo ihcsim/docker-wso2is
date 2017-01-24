@@ -1,13 +1,8 @@
 # docker-wso2is
 
-[ ![Codeship Status for ihcsim/docker-wso2is](https://app.codeship.com/projects/40ae82f0-c3e4-0134-bbfc-4e06b7b88b41/status?branch=master)](https://app.codeship.com/projects/197787)
+[ ![Codeship Status for ihcsim/docker-wso2is](https://app.codeship.com/projects/40ae82f0-c3e4-0134-bbfc-4e06b7b88b41/status?branch=master)](https://app.codeship.com/projects/197787) [![](https://images.microbadger.com/badges/version/isim/wso2is:5.3.0.svg)](https://microbadger.com/images/isim/wso2is:5.3.0 "Get your own version badge on microbadger.com") [![](https://images.microbadger.com/badges/commit/isim/wso2is:5.3.0.svg)](https://microbadger.com/images/isim/wso2is:5.3.0 "Get your own commit badge on microbadger.com") [![](https://images.microbadger.com/badges/image/isim/wso2is:5.3.0.svg)](https://microbadger.com/images/isim/wso2is:5.3.0 "Get your own image badge on microbadger.com")
 
 Docker image to install and run WSO2 Identity Server.
-
-## Tags
-
-* [5.3.0, latest](https://github.com/ihcsim/docker-wso2is/tree/is-5.3.0)
-* [5.0.0](https://github.com/ihcsim/docker-wso2is/tree/is-5.0.0)
 
 ## Description
 The Dockerfile will:
